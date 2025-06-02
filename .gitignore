@@ -138,4 +138,10 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Personal AI
+ai.bat
+ai.py
+read.bat 
+config/
+
 # End of https://www.toptal.com/developers/gitignore/api/rust,linux,windows,database,rust-analyzer,visualstudiocode,venv,dotenv,virtualenv,direnv,jenv,git
